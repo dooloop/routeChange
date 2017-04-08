@@ -15,7 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    // test
+    // te st
+    //여기서 바꾸면 master가 안바뀌는건가
     
     
     override func didReceiveMemoryWarning() {
