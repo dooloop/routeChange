@@ -17,6 +17,7 @@ class ViewController: UIViewController {
 
     // te st
     //여기서 바꾸면 master가 안바뀌는건가
+    //이건 gyehun_net에서 바꾼거
     
     
     override func didReceiveMemoryWarning() {
